@@ -1,7 +1,5 @@
 #include <stdio.h>
-
-// Khai báo c?u trúc SinhVien
-
+#include<string.h> 
 
 int main() {
 	struct SinhVien {
